@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Markopolo619
-- 👀 I’m interested in coding,soccer and drumming.
+- 👋 Hi, I’m @Markopolo619, I'm a 12 year old programmer.
+- 👀 I’m interested in coding, soccer and drumming.
 - 🌱 I’m currently learning about API's for web development
-- 💞️ I’m looking to collaborate on discord with anything that related to web development.
+- 💞️ I’m looking to collaborate on discord with anything that is related to web development.
 - 📫 You can reach me via discord: Markopolo#0458
 
 <!---
