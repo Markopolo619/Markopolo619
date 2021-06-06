@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Job</h1>
+<h1 align="center">Hi 👋, I'm Mark </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Markopolo619&label=Profile%20views&color=0000ff&style=flat" alt="Markopolo619" /> </p>
 
 - 🌱 I'm currently learning **Javascript(to refresh my mind)**
