@@ -3,7 +3,7 @@
 
 - 🌱 I'm currently learning **C**
 
-- 👯 I’m looking to collaborate on **anything, literally!**
+- 👯 I’m looking to collaborate with **anything regarding front-end development**
 
 - 💬 Ask me about **memes ;)**
 
